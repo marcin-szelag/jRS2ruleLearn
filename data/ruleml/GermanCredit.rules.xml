@@ -35,6 +35,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -71,6 +72,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -107,6 +109,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -143,6 +146,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -179,6 +183,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -215,6 +220,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -260,6 +266,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005644811115935736"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -305,6 +312,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014625498596543064"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -350,6 +358,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -395,6 +404,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.010089194326655945"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -440,6 +450,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -485,6 +496,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -530,6 +542,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -575,6 +588,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009193054136874362"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -620,6 +634,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -665,6 +680,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -710,6 +726,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -755,6 +772,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -800,6 +818,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -845,6 +864,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006968641114982578"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -890,6 +910,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006968641114982578"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -942,6 +963,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0074117134137480015"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1001,6 +1023,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.019256605463502014"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1060,6 +1083,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1105,6 +1129,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1157,6 +1182,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.012345679012345678"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1209,6 +1235,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1254,6 +1281,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1299,6 +1327,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1344,6 +1373,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1396,6 +1426,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1448,6 +1479,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014167650531286895"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1500,6 +1532,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1545,6 +1578,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1590,6 +1624,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1635,6 +1670,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1687,6 +1723,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006526468455402465"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1732,6 +1769,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.015544041450777202"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1777,6 +1815,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1822,6 +1861,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1874,6 +1914,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.01832265753016535"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1926,6 +1967,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -1978,6 +2020,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.008300567933595456"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2030,6 +2073,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005205320994794679"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2082,6 +2126,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2134,6 +2179,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.010089194326655945"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2179,6 +2225,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2224,6 +2271,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2276,6 +2324,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006526468455402465"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2321,6 +2370,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2373,6 +2423,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2418,6 +2469,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2463,6 +2515,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2508,6 +2561,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2553,6 +2607,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2598,6 +2653,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005205320994794679"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2643,6 +2699,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2702,6 +2759,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009640666082383873"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2747,6 +2805,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0038921724088222575"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2799,6 +2858,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2851,6 +2911,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2896,6 +2957,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -2948,6 +3010,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3000,6 +3063,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3052,6 +3116,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011892526794890617"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3118,6 +3183,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.010089194326655945"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3184,6 +3250,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.021608643457382955"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3250,6 +3317,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011440305074801994"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3302,6 +3370,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3354,6 +3423,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3399,6 +3469,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3458,6 +3529,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.015544041450777202"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3510,6 +3582,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3562,6 +3635,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0038921724088222575"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3621,6 +3695,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3680,6 +3755,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3739,6 +3815,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3805,6 +3882,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3857,6 +3935,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3902,6 +3981,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -3954,6 +4034,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4006,6 +4087,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4065,6 +4147,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4110,6 +4193,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4162,6 +4246,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4207,6 +4292,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4259,6 +4345,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4318,6 +4405,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4370,6 +4458,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4436,6 +4525,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4488,6 +4578,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4540,6 +4631,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4585,6 +4677,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4637,6 +4730,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4696,6 +4790,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011892526794890617"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4755,6 +4850,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.008746355685131196"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4800,6 +4896,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4859,6 +4956,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4911,6 +5009,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -4977,6 +5076,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5022,6 +5122,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5088,6 +5189,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014625498596543064"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5140,6 +5242,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0038921724088222575"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5206,6 +5309,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.013710747456877488"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5272,6 +5376,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.015544041450777202"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5331,6 +5436,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5383,6 +5489,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5442,6 +5549,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005205320994794679"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5501,6 +5609,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5574,6 +5683,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011440305074801994"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5633,6 +5743,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5699,6 +5810,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5758,6 +5870,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5817,6 +5930,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5876,6 +5990,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5935,6 +6050,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -5994,6 +6110,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6039,6 +6156,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6084,6 +6202,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6136,6 +6255,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6181,6 +6301,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6233,6 +6354,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006968641114982578"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6285,6 +6407,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6337,6 +6460,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6396,6 +6520,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6455,6 +6580,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6507,6 +6633,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004329004329004329"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6566,6 +6693,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6646,6 +6774,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011892526794890617"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6719,6 +6848,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.01098901098901099"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6792,6 +6922,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.024943310657596373"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6844,6 +6975,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006085192697768763"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6917,6 +7049,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006968641114982578"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -6983,6 +7116,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005205320994794679"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7035,6 +7169,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7087,6 +7222,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7139,6 +7275,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7219,6 +7356,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016004742145820983"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7264,6 +7402,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7309,6 +7448,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7361,6 +7501,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7420,6 +7561,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7472,6 +7614,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7524,6 +7667,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7583,6 +7727,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0030211480362537764"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7642,6 +7787,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7701,6 +7847,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7753,6 +7900,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005644811115935736"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7819,6 +7967,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7871,6 +8020,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7923,6 +8073,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -7975,6 +8126,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8027,6 +8179,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0034562211981566822"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8093,6 +8246,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.006085192697768763"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8159,6 +8313,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005205320994794679"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8218,6 +8373,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8263,6 +8419,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8329,6 +8486,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.015544041450777202"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8388,6 +8546,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8447,6 +8606,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0038921724088222575"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8506,6 +8666,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0038921724088222575"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8572,6 +8733,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0038921724088222575"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8638,6 +8800,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8704,6 +8867,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004766719630218114"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8756,6 +8920,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0021536252692031586"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8808,6 +8973,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8853,6 +9019,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005205320994794679"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8912,6 +9079,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -8964,6 +9132,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0017211703958691911"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9023,6 +9192,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9075,6 +9245,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9127,6 +9298,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9186,6 +9358,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.0025869502730669733"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9252,6 +9425,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.005644811115935736"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9297,6 +9471,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.001289583034818742"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9342,6 +9517,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="4.29000429000429E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9387,6 +9563,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9439,6 +9616,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9491,6 +9669,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="8.588605782994561E-4"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9536,6 +9715,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9588,6 +9768,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.01881720430107527"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9633,6 +9814,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9678,6 +9860,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9723,6 +9906,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9768,6 +9952,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9813,6 +9998,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9858,6 +10044,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9903,6 +10090,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9948,6 +10136,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -9993,6 +10182,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10045,6 +10235,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10097,6 +10288,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10149,6 +10341,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10215,6 +10408,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011725293132328308"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10267,6 +10461,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10312,6 +10507,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10357,6 +10553,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10409,6 +10606,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10454,6 +10652,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10499,6 +10698,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10544,6 +10744,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10589,6 +10790,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10634,6 +10836,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10686,6 +10889,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10738,6 +10942,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10790,6 +10995,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10842,6 +11048,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10894,6 +11101,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10946,6 +11154,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -10998,6 +11207,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11057,6 +11267,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11109,6 +11320,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11168,6 +11380,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11227,6 +11440,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11286,6 +11500,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.01881720430107527"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11345,6 +11560,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11397,6 +11613,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11449,6 +11666,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11508,6 +11726,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011725293132328308"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11560,6 +11779,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11612,6 +11832,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11671,6 +11892,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11723,6 +11945,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11782,6 +12005,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11848,6 +12072,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.02834008097165992"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11900,6 +12125,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -11952,6 +12178,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12004,6 +12231,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12056,6 +12284,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12115,6 +12344,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.02119071644803229"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12174,6 +12404,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12226,6 +12457,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12306,6 +12538,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12358,6 +12591,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12403,6 +12637,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12462,6 +12697,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12535,6 +12771,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12594,6 +12831,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12639,6 +12877,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12691,6 +12930,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12743,6 +12983,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12795,6 +13036,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12847,6 +13089,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12899,6 +13142,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12944,6 +13188,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -12989,6 +13234,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13041,6 +13287,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13093,6 +13340,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13145,6 +13393,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13197,6 +13446,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13249,6 +13499,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011725293132328308"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13315,6 +13566,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011725293132328308"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13360,6 +13612,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13412,6 +13665,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.02119071644803229"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13464,6 +13718,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13516,6 +13771,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13575,6 +13831,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13627,6 +13884,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011725293132328308"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13679,6 +13937,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13738,6 +13997,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13797,6 +14057,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13856,6 +14117,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13915,6 +14177,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -13981,6 +14244,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14026,6 +14290,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14071,6 +14336,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14123,6 +14389,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14182,6 +14449,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14248,6 +14516,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.011725293132328308"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14300,6 +14569,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14352,6 +14622,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14404,6 +14675,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14456,6 +14728,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14508,6 +14781,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14553,6 +14827,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14598,6 +14873,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14657,6 +14933,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14716,6 +14993,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14775,6 +15053,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14827,6 +15106,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14879,6 +15159,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14931,6 +15212,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -14990,6 +15272,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.030732860520094562"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15049,6 +15332,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15101,6 +15385,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15153,6 +15438,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15205,6 +15491,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.016448472641826115"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15257,6 +15544,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15309,6 +15597,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15361,6 +15650,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15413,6 +15703,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15465,6 +15756,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15517,6 +15809,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15569,6 +15862,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15621,6 +15915,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.014084507042253521"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15673,6 +15968,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15725,6 +16021,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15777,6 +16074,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15829,6 +16127,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15888,6 +16187,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15940,6 +16240,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -15999,6 +16300,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16065,6 +16367,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16117,6 +16420,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16183,6 +16487,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16235,6 +16540,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16287,6 +16593,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.007021063189568706"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16346,6 +16653,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16398,6 +16706,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16450,6 +16759,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16509,6 +16819,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.009370816599732263"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16554,6 +16865,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16606,6 +16918,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16665,6 +16978,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.002335669002335669"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
@@ -16717,6 +17031,7 @@
 			<evaluation measure="f-ConfirmationMeasure" value="1.0"/>
 			<evaluation measure="A-ConfirmationMeasure" value="0.004676018704074816"/>
 			<evaluation measure="Z-ConfirmationMeasure" value="1.0"/>
+			<evaluation measure="l-ConfirmationMeasure" value="Infinity"/>
 		</evaluations>
 	</implies>
 </assert>
