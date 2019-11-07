@@ -1,0 +1,1 @@
+Rules2RuleMLConverter "..\data\rules\GermanCredit.rules" "..\data\json-metadata\GermanCredit.meta.json" "..\data\ruleml\GermanCredit.rules.xml" pretty

@@ -1,0 +1,1 @@
+Isf2JsonConverter "../data/isf/windsor.isf" "../data/json-metadata/windsor.meta.json" "../data/json-objects/windsor.data.json" pretty
