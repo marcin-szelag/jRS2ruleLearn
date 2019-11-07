@@ -1,0 +1,152 @@
+[
+  {
+    "name": "lot_size",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "real",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "nbed",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "nbath",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "nstoreys",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "drive",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "rec_room",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "basement",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "air_cond",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "ngarage",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "desire_loc",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "condition",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  },
+  {
+    "name": "sale_price",
+    "active": true,
+    "preferenceType": "gain",
+    "type": "decision",
+    "valueType": "enumeration",
+    "domain": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "algorithm": "SHA-256",
+    "missingValueType": "mv2"
+  }
+]
